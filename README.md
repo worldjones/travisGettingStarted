@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/worldjones/travisGettingStarted.svg?branch=master)](https://travis-ci.com/worldjones/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
